@@ -1,0 +1,8 @@
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\bin\Debug\UsporediDvaXMLdokumenti.exe.config
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\bin\Debug\UsporediDvaXMLdokumenti.exe
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\bin\Debug\UsporediDvaXMLdokumenti.pdb
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\obj\Debug\UsporediDvaXMLdokumenti.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\obj\Debug\UsporediDvaXMLdokumenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\obj\Debug\UsporediDvaXMLdokumenti.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\obj\Debug\UsporediDvaXMLdokumenti.exe
+C:\Users\unkno\source\repos\UsporediDvaXMLdokumenti\UsporediDvaXMLdokumenti\obj\Debug\UsporediDvaXMLdokumenti.pdb
